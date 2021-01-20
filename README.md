@@ -31,6 +31,7 @@
 <a href="https://www.youtube.com/vsatish13/">
   <img align="left" alt="VSatish's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+</br>
 
 ### Languages and Tools:
 
