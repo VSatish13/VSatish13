@@ -10,8 +10,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love playing games everyday.
 
-[![Website](https://img.shields.io/website?label=casagbic.com&style=for-the-badge&url=https%3A%2F%2Fcasagbic.com)](https://casagbic.com)
-
 ### Connect with me:
 
 <a href="https://twitter.com/VSatish13_Yt">
@@ -33,6 +31,11 @@
   <img align="left" alt="VSatish's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 </br>
+
+[![Website](https://img.shields.io/website?label=casagbic.com&style=for-the-badge&url=https%3A%2F%2Fcasagbic.com)](https://casagbic.com)
+</br>
+
+---
 
 ### Languages and Tools:
 
