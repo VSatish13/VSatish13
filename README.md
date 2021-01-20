@@ -32,7 +32,6 @@
 <a href="https://www.youtube.com/vsatish13/">
   <img align="left" alt="VSatish's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-</br>
 
 ### Languages and Tools:
 
@@ -62,9 +61,15 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="VSatish's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vsatish13&show_icons=true&hide_border=true" />
-
+  <a href="https://github.com/vsatish13">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsatish13&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/vsatish13">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsatish13&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+</a>
 </details>
+
+### Show some ❤️ by starring some of the repositories!
 
 [twitter]: https://twitter.com/VSatish13_Yt
 [youtube]: https://youtube.com/VSatish13
