@@ -10,8 +10,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love playing games everyday.
 
-## Working with
-
 [![Website](https://img.shields.io/website?label=casagbic.com&style=for-the-badge&url=https%3A%2F%2Fcasagbic.com)](https://casagbic.com)
 
 ### Connect with me:
