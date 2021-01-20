@@ -11,7 +11,6 @@
 - ⚡ Fun fact: I love playing games everyday.
 
 ### Connect with me:
----
 <a href="https://twitter.com/VSatish13_Yt">
   <img align="left" alt="VSatish's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -34,7 +33,7 @@
 [![Website](https://img.shields.io/website?label=casagbic.com&style=for-the-badge&url=https%3A%2F%2Fcasagbic.com)](https://casagbic.com)
 
 ### Languages and Tools:
----
+
 <code><img height="20" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img height="20" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img height="20" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
@@ -42,10 +41,8 @@
 <code><img height="20" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>    
 
----
-
 ### 📺 Latest YouTube Videos
-
+---
 <!-- YOUTUBE:START -->
 - [StarTost | Free Hosting For Every1 | Free | Christmas Offers | Cheap VPS&Shared Hosting | VSatish13](https://www.youtube.com/watch?v=wbTw3-wJzTw)
 - [Facebook Audience Network Ads| Extension | Latest 6.2 SDK for App Inventor | VSatish13](https://www.youtube.com/watch?v=XGl9FIz3-kA)
