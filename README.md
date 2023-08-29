@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/vsatish13).
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [Twitter](https://twitter.com/vsatish13_yt) , [Youtube](https://youtube.com/VSatish13) , [Telegram](https://telegram.com/VSatish) , [Instagram](https://instagram.com/VSatish13)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing games everyday.
 
 [![Website](https://img.shields.io/website?label=casagbic.com&style=for-the-badge&url=https%3A%2F%2Fcasagbic.com)](https://casagbic.com)
