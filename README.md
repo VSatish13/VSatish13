@@ -46,9 +46,6 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [StarTost | Free Hosting For Every1 | Free | Christmas Offers | Cheap VPS&Shared Hosting | VSatish13](https://www.youtube.com/watch?v=wbTw3-wJzTw)
-- [Facebook Audience Network Ads| Extension | Latest 6.2 SDK for App Inventor | VSatish13](https://www.youtube.com/watch?v=XGl9FIz3-kA)
-- [StarTost | Free Hosting For Every1 | Free .com Domain | Cheap VPS & Shared Hosting | VSatish13](https://www.youtube.com/watch?v=mk2YcufIVD4)
 - [Best Quotes & Caption | Android App | Free | Aia file | 100$+ Earning Confirm🔥🔥| Casagbic & Kodular](https://www.youtube.com/watch?v=tRMf3MXbMR0)
 - [Navneet Books App (TextBook, Guide,Master Key,Digest & Learning Video For 1Std-10Std) | SSC & HSC](https://www.youtube.com/watch?v=HP0KtTxZoRI)
 <!-- YOUTUBE:END -->
@@ -72,5 +69,5 @@
 
 [twitter]: https://twitter.com/VSatish13_Yt
 [youtube]: https://youtube.com/VSatish13
-[instagram]: https://instagram.com/VSatish13_Yt
+[instagram]: https://instagram.com/VSatish13
 [facebook]: https://facebook.com/VSatish13
