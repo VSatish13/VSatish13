@@ -1,7 +1,5 @@
 ### Hi there, I'm VSatish 👋
 
-## I'm a Gamer and Developer!!
-
 - 🔭 I’m currently working on [Casagbic](https://casagbic.com/).
 - 🌱 I’m currently learning  everything 🤣
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/vsatish13).
