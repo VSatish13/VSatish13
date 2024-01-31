@@ -6,21 +6,17 @@
 - 🌱 I’m currently learning  everything 🤣
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/vsatish13).
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: [Twitter](https://twitter.com/vsatish13_yt) , [Youtube](https://youtube.com/VSatish13) , [Telegram](https://telegram.com/VSatish) , [Instagram](https://instagram.com/VSatish13)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing games everyday.
 
 [![Website](https://img.shields.io/website?label=casagbic.com&style=for-the-badge&url=https%3A%2F%2Fcasagbic.com)](https://casagbic.com)
 
 ### Connect with me:
-<a href="https://twitter.com/VSatish13_Yt">
+<a href="https://twitter.com/V5atish">
   <img align="left" alt="VSatish's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/vsatish13">
   <img align="left" alt="VSatish's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/vsatish">
-  <img align="left" alt="VSatish's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/vsatish13/">
   <img align="left" alt="VSatish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -54,20 +50,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <a href="https://github.com/vsatish13">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsatish13&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/vsatish13">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsatish13&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
-</a>
-</details>
-
 ### Show some ❤️ by starring some of the repositories!
 
-[twitter]: https://twitter.com/VSatish13_Yt
+[twitter]: https://twitter.com/V5atish
 [youtube]: https://youtube.com/VSatish13
 [instagram]: https://instagram.com/VSatish13
 [facebook]: https://facebook.com/VSatish13
